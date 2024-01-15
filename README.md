@@ -1,5 +1,6 @@
 ![Main Screen](photo1.png)
 ![KeysTab](photo2.png)
+
 A cipher is an algorithm for encrypting and decrypting data. The application uses a cipher
 to encrypt plain text messages and decrypt its encrypted messages; however, the application only
 uses symmetric encryption, where only one key (a secret key) is used to both encrypt and decrypt
